@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SafeStadium IoT Manager",
+  "description": "Real-time stadium management platform providing QR access control, gate tracking, and integrated flame sensor emergency alerts using IoT hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
